@@ -1,0 +1,18 @@
+print('simple python calculator script')
+print('made by: misha')
+print("")
+print('')
+
+
+num1 = int(input('enter first number: '))
+num2 = int(input('enter second number: '))
+print('plus:', num1 + num2)
+print('minus:', num1 - num2)
+print("multiplication:", num1 * num2)
+print('division:', num1 / num2)
+print('exponent:', num1 ** num2)
+print('logarithm:', num1 ** (1 / num2))
+print('remainder:', num1 % num2)
+print('quotient:', num1 // num2)
+print('github: https://github.com/ksofjsdf/simple-calculator-script.git')
+input('press enter to exit')
